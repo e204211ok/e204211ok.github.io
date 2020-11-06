@@ -8,6 +8,12 @@ h3{
     color:red;
     background-color: aquamarine
 }
+h5{
+    color:skyblue
+}
+h6{
+    color: azure
+}
 body{
     background-image: url(../kadai-images/50.jpg);
     background-attachment: fixed;
