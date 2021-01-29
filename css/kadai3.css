@@ -1,0 +1,17 @@
+h2{
+    color: aliceblue;
+    background-color: black;
+    text-align: center;
+}
+h4{
+    color: blue;
+    background-color: oldlace;
+    text-align: center;
+}
+h5{
+    color: blue;
+}
+body{
+    background-image: url(../image/08.jpg);
+    background-attachment: fixed;
+}
