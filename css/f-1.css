@@ -1,0 +1,51 @@
+body{
+    background-image: url(../images/haikei.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+div.mein{
+    width: 1000px;
+    height: ４00px;
+    margin-left: auto;
+    margin-right: auto;
+}
+span.image{
+    display: inline-block;
+    width: 600px;
+    margin-left: -40;
+    margin-right: auto;
+}
+span.text{
+    display: inline-block;
+    width: 330px;
+    margin-left: auto;
+    margin-right: auto;
+}
+div.key{
+    margin-left: 70px;
+}
+
+div.main{
+    width: 1000px;
+    height: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+span.takagisan{
+    display: inline-block;
+    width: 330px;
+    margin-left: auto;
+    margin-right: auto;
+   }
+span.odopon{
+    display: inline-block;
+    width: 330px;
+    margin-left: auto;
+    margin-right: auto;
+}
+span.suraimu{
+    display: inline-block;
+    width:320px;
+    margin-left: auto;
+    margin-right: auto;
+}
