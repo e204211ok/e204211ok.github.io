@@ -1,0 +1,60 @@
+div.title{
+    width: 1000px;
+    height: 100px;
+    background-color: aquamarine;
+    text-align: left;
+    font-size: 70px;
+    font-family: "Impact";
+}
+
+div.article{
+    width: 1000px;
+    height: 100px;
+    background-color: bisque;
+    text-align: center;
+    font-size: 15px;
+    font-family: "Impact";
+}
+
+div.footer{
+    width: 1000px;
+    height: 50px;
+    background-color: cadetblue;
+    text-align: right;
+    font-size: 40px;
+    font-family: "Impact";
+}
+
+span.menuitem{
+    display: inline-block;
+    vertical-align: top;
+    width: 200px;
+    height: 50px;
+    background-color: cornsilk;
+    font-size: 30px;
+    font-family: "Impact";
+}
+
+span.image1{
+    display: inline-block;
+    vertical-align: top;
+    width: 300px;
+    height: 200px;
+    background-color: black;
+    color: white;
+}
+
+span.image2{
+    display: inline-block;
+    vertical-align: top;
+    width: 400px;
+    height: 200px;
+    background-color: black;
+    color: white;
+}
+div.menu{
+    font-size: 0;
+}
+div.images{
+    font-size: 0;
+}
