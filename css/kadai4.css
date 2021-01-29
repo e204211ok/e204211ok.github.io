@@ -1,0 +1,19 @@
+body{
+    background-image: url(../image/49.jpg);
+    background-size: cover;
+}
+h2#midasi{
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+h4#doku{
+    color: blue;
+    background-color: aqua;
+    text-align: center;
+}
+h4#rug{
+    color: white;
+    background-color: red;
+    text-align: center
+}

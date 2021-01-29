@@ -1,0 +1,10 @@
+..blue{
+    color: blue;
+}
+p.blue{
+    color: blue;
+}
+h1#ore{
+    font-family: inherit;
+    font-size: 60px;
+}
